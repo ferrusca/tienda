@@ -1,10 +1,9 @@
-<%@page contentType="text/html" pageEncoding="UTF-8"%> <!--probando gitsss-->
-<!DOCTYPE html>
+<%@page contentType="text/html" pageEncoding="UTF-8"%> <!--probando gitsssa-->
+<!DOCTYPE html> <!--mas <pruebas-->
 <html>
   <head>
     <title>Entrada</title>
     <style>
-      
       form{
         padding-top: 5%; 
       }
@@ -12,7 +11,6 @@
       ul{
         padding-left: 0px;
       }
-      
       /*li:hover a{  /*Cuando pases el puntero por el link de una  lista*/
       /*		background: #ccc;
                     color: #000;
