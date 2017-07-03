@@ -1,5 +1,5 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%> <!--probando gitsssa-->
-<!DOCTYPE html> <!--mas <pruebas-->
+<!DOCTYPE html>
 <html>
   <head>
     <title>Entrada</title>
